@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I am Gabriel Martini, an Electronics Engineering student at UTFPR and Software Engineer at Atos Unify.
 
 🎯 Full-Stack Developer\
-🔭 Currently working on Node.js\
-🌱 Learning Machine Learning with Python\
-📫 glm101@hotmail.com\
+🔭 Currently working on a MERN stack project\
+🌱 Learning ML with Python\
+📫 glm101@hotmail.com
 
 #### Spoken Languages
