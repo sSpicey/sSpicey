@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gabriel Martini, an Electronics Engineering student at UTFPR and Software Engineer at Atos
+I am Gabriel Martini, an Electronics Engineering student at UTFPR and Software Engineer at Atos.
+
+🎯 Full-Stack Developer
+🔭 Currently working on Node.js
+🌱 Learning Machine Learning with Python
+📫 glm101@hotmail.com
+
+#### Spoken Languages
