@@ -23,3 +23,8 @@ I am Gabriel Martini, an Electronics Engineering student at UTFPR and Software E
 📫 glm101@hotmail.com
 
 #### Spoken Languages
+:
+#### Technologies
+
+#### Interests
+
