@@ -8,7 +8,8 @@ When I'm not coding find me reading or riding waves 🏄‍♂️
 </p>
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:glm101@hotmail.com)
+  <a href="mailto:glm101@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-martini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ### Languages
@@ -34,13 +35,18 @@ When I'm not coding find me reading or riding waves 🏄‍♂️
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-#### Spoken Languages
-![English](https://img.shields.io/badge/-English-000?&logo=English)🇪🇨
-![French](https://img.shields.io/badge/-Kubernetes-000?&logo=French)
-![Portuguese](https://img.shields.io/badge/-Portuguese-000?&logo=Brazil)
+### Spoken Languages
+
+<p>
+  <img alt="USA" src="https://flagcdn.com/24x18/us.png">
+  <img alt="France" src="https://flagcdn.com/24x18/fr.png">
+  <img alt="Brazil" src="https://flagcdn.com/24x18/br.png">
+</p>
 
 <p align="center">
-<br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+  <br>
+  <text style="font-style: italic;">Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
+
+
 
