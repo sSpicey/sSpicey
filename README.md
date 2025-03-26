@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Gabriel Martini</h1>
 
 <p align="center">
-I'm a fullstack developer with a bachelor's in Electronics Engineering.  I currently work at Atos Unify building awesome NG-911 software.  
+I'm a fullstack developer with a bachelor's in Electronics Engineering.  I currently work at Outlier as a coding Team Leader for a group of 14 RLHF software engineers.
 </p>
 <p align="center"> 
 When I'm not coding find me reading or riding waves 🏄‍♂️
